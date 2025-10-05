@@ -14,4 +14,4 @@ class Jrull(Readme):
       self.location = "Bumi"
 ```
 
-<img src="https://raw.githubusercontent.com/moxnkeiy/monxkeiy/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/monxkeiy/monxkeiy/refs/heads/main/snake.svg" alt="Snake animation" />
