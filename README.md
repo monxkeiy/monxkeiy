@@ -5,7 +5,7 @@
 ```py
 from GitHub import Readme
 
-class Joy(Readme):
+class Jrull(Readme):
     "https://GitHub.com/monxkeiy/monxkeiy/README.md"
     def __init__(self):
       self.name = "Jrul"
