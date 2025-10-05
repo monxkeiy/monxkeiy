@@ -14,4 +14,4 @@ class Joy(Readme):
       self.location = "Bumi"
 ```
 
-<img src="https://raw.githubusercontent.com/moxnkeiy/monxkeiy/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/moxnkeiy/monxkeiy/snake.svg" alt="Snake animation" />
